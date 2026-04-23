@@ -27,7 +27,10 @@ SIGAP adalah sistem berbasis web yang dirancang untuk mempermudah masyarakat dal
 #### Tanggung Jawab
 - Memimpin tim dalam perancangan dan pengembangan sistem  
 - Mengatur alur kerja tim  
-- Mengawasi proses development hingga deployment  
+- Mengawasi proses development hingga deployment
+
+#### Link Video Demo Project
+https://www.instagram.com/reel/DLZk9IfyZUY/?igsh=aWlza3U1ODNqaGQ0
 
 ---
 
